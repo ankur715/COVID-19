@@ -6,11 +6,13 @@
 ### __Citation__ - [Kernels](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/kernels)
 
 ---  
+#### _PyLDAvis_  
 <p> 
   <img width="1000" height="500" src="pyLDAvis.JPG">
 </p>
 
 ---
+#### _Relevant Articles_
 <p align="center">
   <img width="800" height="400" src="relevant.JPG">
 </p>
