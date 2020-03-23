@@ -20,5 +20,5 @@
 ---
 #### _Cases by Location_
 <p align="center">
-  <img width="600" height="300" src="location.JPG">
+  <img width="800" height="500" src="location.JPG">
 </p>
