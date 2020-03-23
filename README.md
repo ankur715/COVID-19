@@ -16,3 +16,9 @@
 <p align="center">
   <img width="800" height="400" src="relevant.JPG">
 </p>
+
+---
+#### _Cases by Location_
+<p align="center">
+  <img width="600" height="300" src="location.JPG">
+</p>
